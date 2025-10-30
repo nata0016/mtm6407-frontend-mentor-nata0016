@@ -19,7 +19,7 @@ img{max-width:100%;display:block}
 
 /* HEADER */
 .header{
-  background:url("../images/desktop/image-hero.jpg") center/cover no-repeat;
+  background: url("./images/desktop/image-hero.jpg") center/cover no-repeat;
   color:var(--white);
   min-height:90vh;
   position:relative;
